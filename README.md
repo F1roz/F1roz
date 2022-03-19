@@ -1,6 +1,6 @@
-### Hi there 👋
 
-## This is **Firoz**
+
+## Hi 👋 This is **Firoz**
 ### Studying in Computer Science at AIUB
 
 <br>
