@@ -1,7 +1,7 @@
 
 
 ## Hi 👋 This is **Firoz**
-### Studying in Computer Science at AIUB
+### I am studying in Computer Science and Engineering at AIUB. I am focusing on .NET to become a Backend developer. 
 
 <br>
 <br>
