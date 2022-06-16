@@ -1,28 +1,24 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!)](https://github.com/F1roz)
 
+# <img src="assets/img/wave.gif"  width="27" height="27"> &nbsp;Hi there! I'm Firoz Fahim&nbsp; ![](https://komarev.com/ghpvc/?username=F1roz&label=PROFILE+VIEWS&color=blueviolet)
 
-## Hi 👋 This is **Firoz**
-### I am studying in Computer Science and Engineering at AIUB. I am focusing on .NET to become a Backend developer. 
+I am .NET Developer, Currently studying in CSE at [American International University-Bangladesh (AIUB)](https://www.aiub.edu/).I am a Tech Freak. I love new technologies. Currently, I am focusing on .NET to be more experienced in this field. 
+
+Feel free to reach out to me. I'm  **available** at: <br>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firozfahim/)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feroz.fahim.9@gmail.com)&nbsp;&nbsp;[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/FahimFeroz)&nbsp;&nbsp;
 
 <br>
 <br>
+
+# <img src="assets/img/programming-languages.gif"  width="22" height="22"> &nbsp;Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F1roz&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![F1roz's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=F1roz&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats)
+# <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak
 
-![F1roz's GitHub stats](https://github-readme-stats.vercel.app/api/?username=F1roz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Firoz's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=F1roz&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats)
 
-<!--
-**F1roz/F1roz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Firoz's GitHub stats](https://github-readme-stats.vercel.app/api/?username=F1roz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
