@@ -2,8 +2,7 @@
 
 # <img src="assets/img/wave.gif"  width="27" height="27"> &nbsp;Hi there! I'm Firoz Fahim&nbsp; ![](https://komarev.com/ghpvc/?username=F1roz&label=PROFILE+VIEWS&color=blueviolet)
 
-I am .NET Developer, Currently studying in CSE at [American International University-Bangladesh (AIUB)](https://www.aiub.edu/).I am a Tech Freak. I love new technologies. Currently, I am focusing on .NET to be more experienced in this field. 
-
+I am a Backend Developer, graduated from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/). I have the hunger to be experienced in Blockchain and ML. 
 Feel free to reach out to me. I'm  **available** at: <br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firozfahim/)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feroz.fahim.9@gmail.com)&nbsp;&nbsp;[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/FahimFeroz)&nbsp;&nbsp;
