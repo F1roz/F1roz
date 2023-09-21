@@ -9,14 +9,3 @@ I graduated from [American International University-Bangladesh (AIUB)](https://w
 <br>
 <br>
 
-# <img src="assets/img/programming-languages.gif"  width="22" height="22"> &nbsp;Used Languages
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F1roz&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-# <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak
-
- [![Firoz's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=F1roz&theme=blood&fire=DD7F1C&background=151515&dates=9f9f9f&border=DD2727)](https://git.io/streak-stats)
-
-# <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Stats
-
-![Firoz's GitHub stats](https://github-readme-stats.vercel.app/api/?username=F1roz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
